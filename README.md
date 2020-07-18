@@ -1,5 +1,7 @@
 # Revealing the structure of pharmacobehavioral space with Motion Sequencing
 
+**NOTE: Under construction. This is currently a placeholder repo that will eventually contain minimal code to reproduce the core results of Wiltschko et al. 2020.**
+
 This repository contains code to download the raw and processed data from Wiltschko et al., 2020, train and analyze linear classifiers on featurizations of pharmacologically-modified mouse behavior, and analyze the relationships of differing and similar drugs using MoSeq featurizations of behavior.
 
 This code is tested with the Anaconda Python distribution on Python 3. It is a minimal reproduction of the data processing and analysis routines in the paper.
